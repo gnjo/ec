@@ -4,7 +4,8 @@ error console
 https://codepen.io/gnjo/pen/XwmmOR?editors=1010
 
 ec(code,mode,caller)
-mode=> css,pug,js,scss
+
+```mode```=> ```css,pug,js,scss```
 
 ```js
 /*usage*/
