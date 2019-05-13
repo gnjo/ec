@@ -4,11 +4,12 @@ error console
 
 # need scripts
 ```
- script(src="https://gnjo.github.io/csslint/dist/csslint.js")
- script(src="https://gnjo.github.io/pug/pug.js")
- script(src="https://gnjo.github.io/jsCode.js")
- script(src="https://gnjo.github.io/sass.js/dist/sass.sync.js") 
-
+ script(src="https://gnjo.github.io/ec/csslint.js")
+ script(src="https://gnjo.github.io/ec/pug.js")
+ script(src="https://gnjo.github.io/ec/jsCode.js")
+ script(src="https://gnjo.github.io/ec/sass.sync.js") 
+ 
+ script(src="https://gnjo.github.io/ec/ec.js") 
 ```
 
 # dev
