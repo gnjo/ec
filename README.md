@@ -21,8 +21,6 @@ ec(code,mode,caller)
 
 ```mode```=> ```scss,css,pug,js```
 
-scss is delete it. too heavy
-
 stand alone compiler
 https://codepen.io/gnjo/pen/joqpNz
 
