@@ -19,7 +19,7 @@ https://codepen.io/gnjo/pen/XwmmOR?editors=1010
 
 ec(code,mode,caller)
 
-```mode```=> ```css,pug,js```
+```mode```=> ```scss,css,pug,js```
 
 scss is delete it. too heavy
 
