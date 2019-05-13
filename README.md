@@ -1,6 +1,17 @@
 # ec
 error console
 
+
+# need scripts
+```
+ script(src="https://gnjo.github.io/csslint/dist/csslint.js")
+ script(src="https://gnjo.github.io/pug/pug.js")
+ script(src="https://gnjo.github.io/jsCode.js")
+ script(src="https://gnjo.github.io/sass.js/dist/sass.sync.js") 
+
+```
+
+# dev
 https://codepen.io/gnjo/pen/XwmmOR?editors=1010
 
 
