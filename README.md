@@ -39,9 +39,9 @@ let jsc="console.log(1);function y(){console.log(2)};y()"
 ec(jsc,'js',(d)=>{
  console.log(d)
 })
-```
-~~let scss='$someVar: 123px; .some-selector { width: $someVar; }';
+let scss='$someVar: 123px; .some-selector { width: $someVar; }';
 ec(scss,'scss',(d)=>{
  console.log(d)
-})~~
+})
+```
 
