@@ -46,6 +46,13 @@ ec(scss,'scss',(d)=>{
 ```pug
 //pug
 head
+ script(src="https://gnjo.github.io/ec/csslint.js")
+ script(src="https://gnjo.github.io/ec/pug.js")
+ script(src="https://gnjo.github.io/ec/jsCode.js")
+ script(src="https://gnjo.github.io/ec/sass.sync.js") 
+ 
+ script(src="https://gnjo.github.io/ec/ec.js") 
+
  script(src="https://gnjo.github.io/use.js")
  script(src="https://gnjo.github.io/codeable/codemirror.pack.js")
  script(src="https://gnjo.github.io/codeable/codeable.js")
